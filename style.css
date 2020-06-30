@@ -7,6 +7,7 @@
   padding: 10px;
   background-color: #66f;
   color: #fff;
+  font-style: italic;
 }
 
 #jochoa h2 {
@@ -70,7 +71,6 @@
   padding: 0;
 }
 
-
 #jonathanim > h2 {
   color: lightblue;
   font-size: 30px;
@@ -100,3 +100,14 @@ font-size: 20px;
                     linear-gradient(175deg, rgba(0,0,0,0) 70%, #74a6ae 70%),
                     linear-gradient( 85deg, rgba(0,0,0,0) 80%, #74a6ae 80%);
 }
+
+.martina {
+  background-color: #fdbc67;
+  color: #fff;
+  font-family: 'Courier New', Courier, monospace;
+  padding: 20px;
+}
+.martina .fa {
+  padding-right: 15px;
+}
+
