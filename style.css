@@ -121,6 +121,7 @@ ul.jonul {
   list-style: none;
 }
 
+<<<<<<< HEAD
 #andreahg.person-container {
   background: #0c122e;
   padding: 1.5em;
@@ -152,4 +153,11 @@ ul.jonul {
 .Arm {
   background-color: black;
   font-family: monospace;
+=======
+.sadric {
+  background-ground: orange;
+  color: white;
+  padding: 1.2em;
+  font-family: "Courier New"
+>>>>>>> 95b1d823f6cd789f0ab9be64d82b6191f5435464
 }
