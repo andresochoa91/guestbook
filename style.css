@@ -1,12 +1,12 @@
 .person-container {
   border-bottom: 1px solid #333;
-
 }
 
 #jochoa {
   padding: 10px;
   background-color: #66f;
   color: #fff;
+  font-style: italic;
 }
 
 #jochoa h2 {
@@ -38,43 +38,85 @@
   background: #333;
 }
 
-#sdana{
+#sdana {
   background: rgb(49, 139, 126);
   padding: 0.5em;
   color: white;
 }
 
 #natacski {
-    background: linear-gradient(to bottom right, #ffcccc 34%, #cc6699 80%);
-    padding: 20px;
-    border: 5px double #cc0066;  
+  background: linear-gradient(to bottom right, #ffcccc 34%, #cc6699 80%);
+  padding: 20px;
+  border: 5px double #cc0066;
 }
 
-.lu{
+.lu {
   background-color: black;
-  color:white;
-  padding:3rem;
-  font-family: 'Holtwood One SC', serif;
+  color: white;
+  padding: 3rem;
+  font-family: "Holtwood One SC", serif;
 }
-.lu h2{
-  font-family: 'Holtwood One SC', serif;
-  color:yellow;
+.lu h2 {
+  font-family: "Holtwood One SC", serif;
+  color: yellow;
 }
-.lu h3{
+.lu h3 {
   font-weight: bold;
-  color:fuchsia;
+  color: fuchsia;
   text-transform: uppercase;
 }
-.lu ul{
+.lu ul {
   list-style: none;
   padding: 0;
 }
+
+#jonathanim > h2 {
+  color: lightblue;
+  font-size: 30px;
+}
+ul.jonul {
+  list-style-type: circle;
+  padding-top: 15px;
+}
+
+#jonathanim {
+  font-size: 20px;
+  color: white;
+  padding: 1em;
+  width: 100%;
+  box-sizing: border-box;
+  background-color: black;
+  background-image: linear-gradient(175deg, rgba(0, 0, 0, 0) 95%, #8da389 95%),
+    linear-gradient(85deg, rgba(0, 0, 0, 0) 95%, #8da389 95%),
+    linear-gradient(175deg, rgba(0, 0, 0, 0) 90%, #b4b07f 90%),
+    linear-gradient(85deg, rgba(0, 0, 0, 0) 92%, #b4b07f 92%),
+    linear-gradient(175deg, rgba(0, 0, 0, 0) 85%, #c5a68e 85%),
+    linear-gradient(85deg, rgba(0, 0, 0, 0) 89%, #c5a68e 89%),
+    linear-gradient(175deg, rgba(0, 0, 0, 0) 80%, #ba9499 80%),
+    linear-gradient(85deg, rgba(0, 0, 0, 0) 86%, #ba9499 86%),
+    linear-gradient(175deg, rgba(0, 0, 0, 0) 75%, #9f8fa4 75%),
+    linear-gradient(85deg, rgba(0, 0, 0, 0) 83%, #9f8fa4 83%),
+    linear-gradient(175deg, rgba(0, 0, 0, 0) 70%, #74a6ae 70%),
+    linear-gradient(85deg, rgba(0, 0, 0, 0) 80%, #74a6ae 80%);
+}
+
 .martina {
   background-color: #fdbc67;
   color: #fff;
-  font-family: 'Courier New', Courier, monospace;
+  font-family: "Courier New", Courier, monospace;
   padding: 20px;
 }
 .martina .fa {
   padding-right: 15px;
+}
+
+.abel {
+  background-color: #5e35b1;
+  color: #fff;
+  padding: 1em;
+  font-family: "Ubuntu";
+}
+
+.abel-ul {
+  list-style: none;
 }
