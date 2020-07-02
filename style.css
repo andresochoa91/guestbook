@@ -153,3 +153,10 @@ ul.jonul {
   background-color: black;
   font-family: monospace;
 }
+
+.sadric {
+  background-color: orange;
+  color: white;
+  padding: 1.2em;
+  font-family: "Courier New"
+}
