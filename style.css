@@ -121,6 +121,14 @@ ul.jonul {
   list-style: none;
 }
 
+.carbajal {
+  background-color: #7851a9;
+}
+
+.carbajal-ul {
+  list-style: none;
+}
+
 #andreahg.person-container {
   background: #0c122e;
   padding: 1.5em;
