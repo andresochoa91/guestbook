@@ -121,6 +121,32 @@ ul.jonul {
   list-style: none;
 }
 
+#hvierma20 {
+  padding: 10px;
+  
+  background-image: url(https://images.unsplash.com/photo-1592099086579-047cab88633c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80);
+  color: palevioletred; 
+  font-style: italic;
+  text-align: center;
+  font-size: 30px;
+}
+
+#hvierma20 ul {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+#hvierma20 li {
+  border: 1px solid lightcoral;
+  margin: 0.5em;
+  padding: 0.5em;
+  color:rgb(235, 36, 36);
+  border-radius: 0.3em;
+  transition: 0.5s;
+}
+
 .carbajal {
   background-color: #7851a9;
 }
@@ -168,3 +194,4 @@ ul.jonul {
   padding: 1.2em;
   font-family: "Courier New"
 }
+
