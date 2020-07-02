@@ -131,8 +131,6 @@ ul.jonul {
   font-size: 30px;
 }
 
-
-
 #hvierma20 ul {
   list-style: none;
   display: flex;
@@ -149,4 +147,51 @@ ul.jonul {
   transition: 0.5s;
 }
 
+.carbajal {
+  background-color: #7851a9;
+}
+
+.carbajal-ul {
+  list-style: none;
+}
+
+#andreahg.person-container {
+  background: #0c122e;
+  padding: 1.5em;
+  color: white;
+}
+
+.andreahg-heading {
+  font-family: "Roboto Mono", monospace;
+}
+
+#andreahg p {
+  color: #b5c4ff;
+  font-weight: 500;
+  line-height: 160%;
+  font-family: "Open sans", monospace;
+}
+
+#andreahg ul {
+  list-style: none;
+}
+
+#andreahg li {
+  color: #b5c4ff;
+  font-weight: 500;
+  line-height: 160%;
+  font-family: "Open sans", monospace;
+}
+
+.Arm {
+  background-color: black;
+  font-family: monospace;
+}
+
+.sadric {
+  background-color: orange;
+  color: white;
+  padding: 1.2em;
+  font-family: "Courier New"
+}
 
